@@ -1,0 +1,48 @@
+body {
+    background-color:rgb(249, 245, 231);
+    color:rgb(167, 114, 125);
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+
+
+img.one {
+    filter: brightness(50%);
+    filter: contrast(50%);
+    filter: drop-shadow(4px 4px 4px rgb(145, 145, 145));
+}
+
+img.two {
+    filter: brightness(50%);
+    filter: contrast(50%);
+    filter: drop-shadow(4px 4px 4px rgb(145, 145, 145));
+}
+
+img.three {
+    filter: brightness(50%);
+    filter: contrast(50%);
+    filter: drop-shadow(4px 4px 4px rgb(145, 145, 145));
+}
+
+img.four {
+    filter: brightness(50%);
+    filter: contrast(50%);
+    filter: drop-shadow(4px 4px 4px rgb(145, 145, 145));
+}
+
+table.edu_cred {
+    font-size: 15px;
+}
+
+
+h2 {
+    background-color:rgb(237, 219, 199);
+    color: rgb(185, 102, 119) ;
+    font-size: 24px;
+}
+
+p {
+    font-size: 16px;
+}
+
